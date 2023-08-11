@@ -1,7 +1,23 @@
-#Element sharing or message sharing web application
+# Elementsharing or message sharing web application
 
-It is a Real time Element sharing or message sharing web application using React, Node js  using   Socket.io, Rest APIs 
-having the functionality of user login , add member in a group , creating a group while Sending Images , chat(message) .With online statuses, great design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create multiple rooms, and much more.In this projects i  utilized javascript concepts of  React Hooks, Props, and CSS! .For new registeration you need to do it in (https://chatengine.io/ ) ChatEngine .It is paid but you can use for 30 days free.I have added sound when instantly message come in a group using Chatengine asset
+It is a **Real time Element sharing or message sharing web application** using React, Node js  using   Socket.io, Rest APIs 
+having the functionality of **user login , add member in a group , creating a group while Sending Images , chat(message) .With online statuses**, great design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create multiple rooms, and much more.In this projects i  utilized javascript concepts of  **React Hooks, Props, and CSS!** .For new registeration you need to do it in **ChatEngine** .It is paid but you can use for 30 days free.I have added sound when instantly message come in a group using **Chatengine asset**
+
+# If you want to see demo try this in different devices
+
+1st laptop : use **(Chulindra/Chulindra)** username and password
+
+now use in 2 mobile : login with **(Ram/Ram)**
+
+                                          **screenshot**
+![Screenshot 2023-08-11 173343](https://github.com/IotchulindraRai/Elementshare-A-Real-Time-Chat-web-application1-/assets/87846923/afb9ab69-2327-4d98-835b-726a0071e3ab)
+
+![Screenshot 2023-08-11 171435](https://github.com/IotchulindraRai/Elementshare-A-Real-Time-Chat-web-application1-/assets/87846923/1f8e3efb-c6ad-4a5f-8554-ddc3fa464f96)
+
+![Screenshot 2023-08-11 162101](https://github.com/IotchulindraRai/Elementshare-A-Real-Time-Chat-web-application1-/assets/87846923/38617d51-fffb-497c-84b5-b6143d0485cf)
+
+![Screenshot 2023-08-11 162118](https://github.com/IotchulindraRai/Elementshare-A-Real-Time-Chat-web-application1-/assets/87846923/ca979eec-0a28-493c-91fa-d07cedb3a2af)
+
 
 
 
@@ -77,5 +93,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 **for backend and other**
 Backend is hosted by https://chatengine.io 
+
 Components are made by https://npmjs.com/package/react-chat-...
+
   for me : https://chatengine.io/projects/7a060015-8879-4a12-a66a-aa9def783bb2#users
