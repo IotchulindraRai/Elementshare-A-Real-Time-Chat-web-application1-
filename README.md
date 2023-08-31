@@ -5,9 +5,9 @@ having the functionality of **user login , add member in a group , creating a gr
 
 # If you want to see demo try this in different devices
 
-1st laptop : use **(Chulindra/Chulindra)** username and password
+1st laptop : use **(chulindra/chulindra)** username and password
 
-now use in 2 mobile : login with **(Ram/Ram)**
+now use in 2 mobile : login with **(admin/admin)**
 
                                           **screenshot**
 ![Screenshot 2023-08-11 173343](https://github.com/IotchulindraRai/Elementshare-A-Real-Time-Chat-web-application1-/assets/87846923/afb9ab69-2327-4d98-835b-726a0071e3ab)
