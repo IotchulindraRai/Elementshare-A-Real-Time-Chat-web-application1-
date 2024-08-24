@@ -1,6 +1,6 @@
 # Elementsharing or message sharing web application
 
-It is a **Real time Element sharing or message sharing web application** using React, Node js  using   Socket.io, Rest APIs 
+It is a **Real time Element sharing or message sharing web application** using React, Node js  using   Socket.io, Rest APIs with
 having the functionality of **user login , add member in a group , creating a group while Sending Images , chat(message) .With online statuses**, great design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create multiple rooms, and much more.In this projects i  utilized javascript concepts of  **React Hooks, Props, and CSS!** .For new registeration you need to do it in **ChatEngine** .It is paid but you can use for 30 days free.I have added sound when instantly message come in a group using **Chatengine asset**
 
 # If you want to see demo try this in different devices
